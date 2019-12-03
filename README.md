@@ -1,4 +1,4 @@
-# Proyecto Integrados
+# Proyecto Integrador
 # Trascend
 
 Al inicio pensaba hacer un juego de naves, pero debido al poco tiempo que tuvimos en
